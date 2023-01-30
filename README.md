@@ -6,12 +6,10 @@
 
 ###### Tags utilizadas em aula:
 
-- <h1> até <h6>, **<p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>**;
+- h1 até h6, p, mark, small, i, u, strong, ol, ul, li, a, hr, sub, sup e blockquote.
 
 ###### Tags sugeridas:
 
--  <font>, <del>, <p>, <abbr>
-
-
+-  font, del, abbr.
 
 Author: Wagner Nogueira
